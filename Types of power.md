@@ -43,9 +43,7 @@ Its like,
 **In AC electrical circuits, complex power is a way of representing both the real power and reactive power in a single complex quantity.** 
 **Complex power is the product of rms voltage (V) and complex conjugate of rms current (I)**  
 
-$$
-S = V_{rms} I_{rms}^{*}
-$$
+$$S = V_{rms} I_{rms}^{*}$$
 
 ## RMS Phasors
 
