@@ -66,7 +66,7 @@ $$\mathbf{Z} = \frac{\mathbf{V}}{\mathbf{I}} = \frac{\mathbf{V}_{\text{rms}}}{\m
 Thus, 
  Vᵣₘₛ = Iᵣₘₛ Z, Substituting Z, 
 
-$$\mathbf{S} = I_{\text{rms}}^2 \mathbf{Z} = \frac{V_{\text{rms}}^2}{\mathbf{Z}^*} = \mathbf{V}_{\text{rms}} \mathbf{I}_{\text{rms}}^*$$
+$$\mathbf{S} = I_{\text{rms}}^2 \mathbf{Z} = \frac{V_{\text{rms}}^2}{\mathbf{Z}^*} = \mathbf{V}_{\text{rms}}\mathbf{I}_{\text{rms}}^*$$
 
 Since Z = R + jX,  
 
