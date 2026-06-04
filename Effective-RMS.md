@@ -9,6 +9,7 @@ In simple words
 *Take the average of those squared values over time*  
 **3)Take the square root**    
 *This brings the value back to the original scale*  
+### For any periodic function x(t) in general, the RMS value would be,  
 $$
 x_{\mathrm{RMS}} = \sqrt{\frac{1}{T} \int_{0}^{T} x^2(t)\, dt}
 $$
@@ -16,7 +17,7 @@ $$
 $$
 V_{\mathrm{RMS}} = \sqrt{\frac{1}{T} \int_{0}^{T} v^2(t)\, dt}
 $$
-**Determined value:***  
+**Determined value:**  
 $$
 V_{\mathrm{RMS}} = \frac{V_{\mathrm{max}}}{\sqrt{2}}
 $$
