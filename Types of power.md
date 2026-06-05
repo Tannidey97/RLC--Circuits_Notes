@@ -63,10 +63,10 @@ $$\mathbf{S} = V_{\text{rms}} I_{\text{rms}} \angle (\theta_v - \theta_i) = V_{\
  
 $$\mathbf{Z} = \frac{\mathbf{V}}{\mathbf{I}} = \frac{\mathbf{V}_{\text{rms}}}{\mathbf{I}_{\text{rms}}} = \frac{V_{\text{rms}}}{I_{\text{rms}}} \angle (\theta_v - \theta_i)$$
 
-Thus, 
- Vᵣₘₛ = Iᵣₘₛ Z, Substituting Z, 
+### Since,Vᵣₘₛ = Iᵣₘₛ Z, Substituting Z,  
 
-$$\mathbf{S} = I_{\text{rms}}^2 \mathbf{Z} = \frac{V_{\text{rms}}^2}{\mathbf{Z}^*} = \mathbf{V}_{\text{rms}}\mathbf{I}_{\text{rms}}^*$$
+#### [we can get S = ZIᵣₘₛ² = Vᵣₘₛ² / Z* = Vᵣₘₛ Iᵣₘₛ*.]
+ 
 
 Since Z = R + jX,  
 
