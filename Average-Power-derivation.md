@@ -38,4 +38,7 @@ $$P = \frac{1}{2} V_m I_m = \frac{1}{2} I_m^2 R = \frac{1}{2} |\mathbf{I}|^2 R$$
 ### Case 2: For Purely Reactive Circuit ($\theta_v - \theta_i = \pm 90^\circ$)
 $$P = \frac{1}{2} V_m I_m \cos(90^\circ) = 0$$         
             
+### For an ideal capacitor or inductor, the average power over one complete cycle is zero because they store energy temporarily and then return it to the source, rather than consuming it.
 
+#### Resistor: Converts electrical energy into heat → consumes real power.
+#### Inductor/Capacitor: Only exchange energy with the source → consume no net energy.
