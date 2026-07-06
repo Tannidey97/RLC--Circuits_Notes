@@ -6,7 +6,7 @@
 **The numbers of mesh currents is will equal to the number of loop or windows of the circuit. If the planner circuit have 2 loop, mesh current will also be 2 for that circuit.**
 
 # Method of Solving 
-h
+
 ### Identify all the meshes.
 
 **1)Find the smallest closed loops in the circuit.**  
@@ -65,8 +65,8 @@ https://github.com/Tannidey97/RLC--Circuits_Notes/blob/main/IMG_20260706_133757_
 
 ### Solving 
 
-We can solve these equations using Cramer's rule, Substitutio method, Elimination method and Calculator.  
+**We can solve these equations using Cramer's rule, Substitutio method, Elimination method and Calculator.**  
 
-**[ In the case of Branch Analysis, we would assume individual currents I for the middle Branches instead of defining the current by two existing current.This is the difference between mesh analysis and branch analysis.]**
+***[ In the case of Branch Analysis, we would assume individual currents I for the middle Branches instead of defining the current by two existing current.This is the difference between mesh analysis and branch analysis.]***
 
 
