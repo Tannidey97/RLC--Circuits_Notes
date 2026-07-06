@@ -28,11 +28,15 @@ https://github.com/Tannidey97/RLC--Circuits_Notes/blob/main/IMG_20260706_122007_
 **In the circuit, the KVL is applied to the both loop clockwisely.**  
 ### Equation for first loop  
 
- **2 - 2I₁ - 4I₃ = 0**
+ **2 - 2I₁ - 4I₃ = 0**  
+ 
+***[ Notice that there are assumed individual current for each branch such as I₁, I₂, I₃ ]***
 
  ### Equation for the 2nd loop 
 
  **4I₃ + 1I₁ - 6 = 0**
+ 
+***[ In the given circuit diagram my assumed direction is opposite to the actual direction of the circuit that is why voltage rises across R₃ & R₂ according to my assumed clockwise direction.]***
 
 ### Equation for the node a  
 
@@ -49,5 +53,5 @@ https://github.com/Tannidey97/RLC--Circuits_Notes/blob/main/IMG_20260706_122007_
 **We can solve these equations using Cramer's rule, Substitution method, Elimination method.**  
     
 
-
+***[ In the case of Mesh Analysis, we wouldn't assume I₃ for the middle Branch, rather than we would define the current through this branch using I₂ & I₃.This is the difference between mesh analysis and branch analysis.]***
 
