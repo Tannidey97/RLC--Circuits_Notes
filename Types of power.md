@@ -20,23 +20,34 @@ Apparent power is the total amount of power that is supplied by the source.***
 Apparent power is denoted by S,  
 $$S = V_{\text{rms}} I_{\text{rms}}$$
 
-# Power Factor 
+# Power Factor
 
-***Power factor represents the phase difference between the voltage and current, and it basically shows how much of apparent power has converted into real power.***  
+Power factor is the cosine of the phase difference between voltage and current, and it basically shows how much of the apparent power has been converted into real power.
 
-For Example,  
-If power factor = P / S = cosθ = 0.8  
+$$pf = \frac{P}{S} = \cos(\theta_v - \theta_i)$$
 
-***Meaning of this result:***  
+Power factor has no unit (it's a ratio between 0 and 1).
 
-**Only 80% of the supplied power is doing useful work.**  
-**The remaining 20% is associated with reactive effects (stored and returned energy).**   
+For Example,
+If power factor = P / S = cosθ = 0.8
 
-# Reactive Powerer
+***Meaning of this result:***
 
-**Reactive power is the power that flows back and forth between the source and reactive elements without producing useful work. It is a part of total supplied power/apparent power but it doesn't contribute in converting energy. It oscillates between source and reactive elements like capacitor, inductor.**  
-Its like,  
-**Reactive power = Apparent power - Real Power**  
+Only 80% of the apparent power is doing useful work.
+The reactive part is Q = S sinθ = 0.6 S, because S² = P² + Q².
+(The percentages don't add up to 100% since P and Q combine like the sides of a right triangle, not by simple addition.)
+
+# Reactive Power
+
+Reactive power is the power that flows back and forth between the source and reactive elements without producing useful work. It is a component of the apparent power but it doesn't contribute in converting energy. It oscillates between source and reactive elements like capacitor, inductor.
+
+Its unit is volt-ampere reactive (VAR).
+
+Its like,
+
+$$S^2 = P^2 + Q^2$$
+
+$$Q = \sqrt{S^2 - P^2}$$
 
 
 # Complex Power 
