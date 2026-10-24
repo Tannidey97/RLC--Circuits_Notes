@@ -7,6 +7,8 @@ Hence, Real power,
 
 $$P = V_{\text{rms}} I_{\text{rms}} \cos(\theta_v - \theta_i)$$
 
+**Real power unit(P): watts (W)**
+
 # Apparent Power 
 
 **The Average power equation,**
@@ -19,6 +21,8 @@ Apparent power is the total amount of power that is supplied by the source.***
 
 Apparent power is denoted by S,  
 $$S = V_{\text{rms}} I_{\text{rms}}$$
+
+**Apparent power unit (S): volt-amperes (VA)**
 
 # Power Factor
 
@@ -55,6 +59,8 @@ $$Q = \sqrt{S^2 - P^2}$$
 **Complex power is the product of rms voltage (V) and complex conjugate of rms current (I)**  
 
 $$S = V_{rms} I_{rms}^{*}$$
+
+**Complex power unit (S = P + jQ): volt-amperes (VA)**
 
 ## RMS Phasors
 
