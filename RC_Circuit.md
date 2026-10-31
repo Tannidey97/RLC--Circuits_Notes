@@ -183,6 +183,8 @@ A quantity whose rate of change is proportional to its own size follows an expon
 
 ## 6. The Two Curves in the Universal Time Constant Chart
 
+https://github.com/Tannidey97/RLC--Circuits_Notes/blob/main/Time%20constant_Chart.jpg
+
 **Curve 1 (decreasing):**
 
 $$y = e^{-t/\tau}$$
